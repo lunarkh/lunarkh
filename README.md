@@ -1,2 +1,3 @@
-- FPGA Xilinx, VHDL, Matlab/Simulink
-- email - ed.doubleav@gmail.com telegramm - https://t.me/lunarkh
+- FPGA Xilinx,Vivado, Vitis, VHDL, Matlab/Simulink, C/C++;
+- email - ed.doubleav@gmail.com
+- telegramm - https://t.me/lunarkh
