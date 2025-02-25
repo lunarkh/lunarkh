@@ -1,5 +1,2 @@
-- 👋 Hi, I’m @lunarkh
-- 👀 I’m interested FPGA projects
-- 🌱 I’m currently learning to develop modems on FPGA
-- 💞️ I’m looking for cooperation in the development of satellite communication systems
-- 📫 How to reach me: email - ed.doubleav@gmail.com telegramm - https://t.me/lunarkh
+- FPGA Xilinx, VHDL, Matlab/Simulink
+- email - ed.doubleav@gmail.com telegramm - https://t.me/lunarkh
